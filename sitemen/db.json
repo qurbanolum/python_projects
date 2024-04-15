@@ -1,0 +1,1576 @@
+[
+{
+  "model": "admin.logentry",
+  "pk": 1,
+  "fields": {
+    "action_time": "2023-12-22T12:11:06.071Z",
+    "user": 1,
+    "content_type": 6,
+    "object_id": "1",
+    "object_repr": "Singers",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 2,
+  "fields": {
+    "action_time": "2023-12-22T12:11:21.768Z",
+    "user": 1,
+    "content_type": 6,
+    "object_id": "2",
+    "object_repr": "Actors",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 3,
+  "fields": {
+    "action_time": "2023-12-22T12:11:36.405Z",
+    "user": 1,
+    "content_type": 6,
+    "object_id": "3",
+    "object_repr": "Sportsmans",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 4,
+  "fields": {
+    "action_time": "2023-12-22T12:13:41.570Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "1",
+    "object_repr": "Tom Cruise",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 5,
+  "fields": {
+    "action_time": "2023-12-22T12:15:31.377Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "2",
+    "object_repr": "Mark Wahlberg",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 6,
+  "fields": {
+    "action_time": "2023-12-22T12:16:13.663Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "3",
+    "object_repr": "Chris Evans",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 7,
+  "fields": {
+    "action_time": "2023-12-22T12:17:26.828Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "4",
+    "object_repr": "Jake Gyllenhaal",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 8,
+  "fields": {
+    "action_time": "2023-12-22T12:20:29.981Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "5",
+    "object_repr": "Freddie Mercury",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 9,
+  "fields": {
+    "action_time": "2023-12-22T12:21:21.985Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "6",
+    "object_repr": "Michael Jackson",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 10,
+  "fields": {
+    "action_time": "2023-12-22T12:22:41.390Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "7",
+    "object_repr": "Elvis Presley",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 11,
+  "fields": {
+    "action_time": "2023-12-22T12:23:59.662Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "8",
+    "object_repr": "Frank Sinatra",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 12,
+  "fields": {
+    "action_time": "2023-12-22T12:42:39.710Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "9",
+    "object_repr": "Steven Tyler",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 13,
+  "fields": {
+    "action_time": "2023-12-22T12:43:35.247Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "10",
+    "object_repr": "Prince",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 14,
+  "fields": {
+    "action_time": "2023-12-22T12:47:59.617Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "10",
+    "object_repr": "Prince",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Tags\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 15,
+  "fields": {
+    "action_time": "2023-12-22T12:48:04.829Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "9",
+    "object_repr": "Steven Tyler",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Tags\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 16,
+  "fields": {
+    "action_time": "2023-12-22T12:48:07.676Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "8",
+    "object_repr": "Frank Sinatra",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Tags\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 17,
+  "fields": {
+    "action_time": "2023-12-22T12:48:11.595Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "7",
+    "object_repr": "Elvis Presley",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Tags\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 18,
+  "fields": {
+    "action_time": "2023-12-22T12:48:15.017Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "6",
+    "object_repr": "Michael Jackson",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Tags\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 19,
+  "fields": {
+    "action_time": "2023-12-22T12:48:17.942Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "5",
+    "object_repr": "Freddie Mercury",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Tags\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 20,
+  "fields": {
+    "action_time": "2023-12-22T12:48:21.308Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "4",
+    "object_repr": "Jake Gyllenhaal",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Tags\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 21,
+  "fields": {
+    "action_time": "2023-12-22T12:48:24.009Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "3",
+    "object_repr": "Chris Evans",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Tags\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 22,
+  "fields": {
+    "action_time": "2023-12-22T12:48:27.597Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "2",
+    "object_repr": "Mark Wahlberg",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Tags\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 23,
+  "fields": {
+    "action_time": "2023-12-22T12:48:33.902Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "1",
+    "object_repr": "Tom Cruise",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Tags\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 24,
+  "fields": {
+    "action_time": "2024-01-11T12:40:13.201Z",
+    "user": 1,
+    "content_type": 11,
+    "object_id": "3",
+    "object_repr": "qurbanolum2",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 25,
+  "fields": {
+    "action_time": "2024-01-11T14:53:48.790Z",
+    "user": 1,
+    "content_type": 11,
+    "object_id": "2",
+    "object_repr": "qurbanolum",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"User permissions\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 26,
+  "fields": {
+    "action_time": "2024-01-11T15:07:38.626Z",
+    "user": 1,
+    "content_type": 11,
+    "object_id": "4",
+    "object_repr": "qurbanolum2",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"User permissions\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 27,
+  "fields": {
+    "action_time": "2024-01-11T15:13:53.628Z",
+    "user": 1,
+    "content_type": 3,
+    "object_id": "1",
+    "object_repr": "moderator",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 28,
+  "fields": {
+    "action_time": "2024-01-11T15:14:23.658Z",
+    "user": 1,
+    "content_type": 11,
+    "object_id": "2",
+    "object_repr": "qurbanolum",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Groups\", \"User permissions\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 29,
+  "fields": {
+    "action_time": "2024-01-11T17:47:46.795Z",
+    "user": 1,
+    "content_type": 3,
+    "object_id": "2",
+    "object_repr": "social",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 30,
+  "fields": {
+    "action_time": "2024-01-11T18:12:43.368Z",
+    "user": 1,
+    "content_type": 11,
+    "object_id": "2",
+    "object_repr": "qurbanolum",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 31,
+  "fields": {
+    "action_time": "2024-01-11T18:12:43.370Z",
+    "user": 1,
+    "content_type": 11,
+    "object_id": "4",
+    "object_repr": "qurbanolum2",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 32,
+  "fields": {
+    "action_time": "2024-01-11T19:08:36.983Z",
+    "user": 1,
+    "content_type": 11,
+    "object_id": "5",
+    "object_repr": "qurbanolum2",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 33,
+  "fields": {
+    "action_time": "2024-01-11T19:08:43.584Z",
+    "user": 1,
+    "content_type": 3,
+    "object_id": "2",
+    "object_repr": "social",
+    "action_flag": 2,
+    "change_message": "[]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 34,
+  "fields": {
+    "action_time": "2024-01-11T20:31:20.047Z",
+    "user": 1,
+    "content_type": 11,
+    "object_id": "8",
+    "object_repr": "qurbanolum",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 35,
+  "fields": {
+    "action_time": "2024-01-11T20:47:50.486Z",
+    "user": 1,
+    "content_type": 11,
+    "object_id": "9",
+    "object_repr": "qurbanolum",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 1,
+  "fields": {
+    "name": "Can add log entry",
+    "content_type": 1,
+    "codename": "add_logentry"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 2,
+  "fields": {
+    "name": "Can change log entry",
+    "content_type": 1,
+    "codename": "change_logentry"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 3,
+  "fields": {
+    "name": "Can delete log entry",
+    "content_type": 1,
+    "codename": "delete_logentry"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 4,
+  "fields": {
+    "name": "Can view log entry",
+    "content_type": 1,
+    "codename": "view_logentry"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 5,
+  "fields": {
+    "name": "Can add permission",
+    "content_type": 2,
+    "codename": "add_permission"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 6,
+  "fields": {
+    "name": "Can change permission",
+    "content_type": 2,
+    "codename": "change_permission"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 7,
+  "fields": {
+    "name": "Can delete permission",
+    "content_type": 2,
+    "codename": "delete_permission"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 8,
+  "fields": {
+    "name": "Can view permission",
+    "content_type": 2,
+    "codename": "view_permission"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 9,
+  "fields": {
+    "name": "Can add group",
+    "content_type": 3,
+    "codename": "add_group"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 10,
+  "fields": {
+    "name": "Can change group",
+    "content_type": 3,
+    "codename": "change_group"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 11,
+  "fields": {
+    "name": "Can delete group",
+    "content_type": 3,
+    "codename": "delete_group"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 12,
+  "fields": {
+    "name": "Can view group",
+    "content_type": 3,
+    "codename": "view_group"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 13,
+  "fields": {
+    "name": "Can add content type",
+    "content_type": 4,
+    "codename": "add_contenttype"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 14,
+  "fields": {
+    "name": "Can change content type",
+    "content_type": 4,
+    "codename": "change_contenttype"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 15,
+  "fields": {
+    "name": "Can delete content type",
+    "content_type": 4,
+    "codename": "delete_contenttype"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 16,
+  "fields": {
+    "name": "Can view content type",
+    "content_type": 4,
+    "codename": "view_contenttype"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 17,
+  "fields": {
+    "name": "Can add session",
+    "content_type": 5,
+    "codename": "add_session"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 18,
+  "fields": {
+    "name": "Can change session",
+    "content_type": 5,
+    "codename": "change_session"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 19,
+  "fields": {
+    "name": "Can delete session",
+    "content_type": 5,
+    "codename": "delete_session"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 20,
+  "fields": {
+    "name": "Can view session",
+    "content_type": 5,
+    "codename": "view_session"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 21,
+  "fields": {
+    "name": "Can add category",
+    "content_type": 6,
+    "codename": "add_category"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 22,
+  "fields": {
+    "name": "Can change category",
+    "content_type": 6,
+    "codename": "change_category"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 23,
+  "fields": {
+    "name": "Can delete category",
+    "content_type": 6,
+    "codename": "delete_category"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 24,
+  "fields": {
+    "name": "Can view category",
+    "content_type": 6,
+    "codename": "view_category"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 25,
+  "fields": {
+    "name": "Can add men",
+    "content_type": 7,
+    "codename": "add_men"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 26,
+  "fields": {
+    "name": "Can change men",
+    "content_type": 7,
+    "codename": "change_men"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 27,
+  "fields": {
+    "name": "Can delete men",
+    "content_type": 7,
+    "codename": "delete_men"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 28,
+  "fields": {
+    "name": "Can view men",
+    "content_type": 7,
+    "codename": "view_men"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 29,
+  "fields": {
+    "name": "Can add tag post",
+    "content_type": 8,
+    "codename": "add_tagpost"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 30,
+  "fields": {
+    "name": "Can change tag post",
+    "content_type": 8,
+    "codename": "change_tagpost"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 31,
+  "fields": {
+    "name": "Can delete tag post",
+    "content_type": 8,
+    "codename": "delete_tagpost"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 32,
+  "fields": {
+    "name": "Can view tag post",
+    "content_type": 8,
+    "codename": "view_tagpost"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 33,
+  "fields": {
+    "name": "Can add upload files",
+    "content_type": 9,
+    "codename": "add_uploadfiles"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 34,
+  "fields": {
+    "name": "Can change upload files",
+    "content_type": 9,
+    "codename": "change_uploadfiles"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 35,
+  "fields": {
+    "name": "Can delete upload files",
+    "content_type": 9,
+    "codename": "delete_uploadfiles"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 36,
+  "fields": {
+    "name": "Can view upload files",
+    "content_type": 9,
+    "codename": "view_uploadfiles"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 37,
+  "fields": {
+    "name": "Can add wife",
+    "content_type": 10,
+    "codename": "add_wife"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 38,
+  "fields": {
+    "name": "Can change wife",
+    "content_type": 10,
+    "codename": "change_wife"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 39,
+  "fields": {
+    "name": "Can delete wife",
+    "content_type": 10,
+    "codename": "delete_wife"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 40,
+  "fields": {
+    "name": "Can view wife",
+    "content_type": 10,
+    "codename": "view_wife"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 41,
+  "fields": {
+    "name": "Can add user",
+    "content_type": 11,
+    "codename": "add_user"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 42,
+  "fields": {
+    "name": "Can change user",
+    "content_type": 11,
+    "codename": "change_user"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 43,
+  "fields": {
+    "name": "Can delete user",
+    "content_type": 11,
+    "codename": "delete_user"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 44,
+  "fields": {
+    "name": "Can view user",
+    "content_type": 11,
+    "codename": "view_user"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 45,
+  "fields": {
+    "name": "Can add association",
+    "content_type": 12,
+    "codename": "add_association"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 46,
+  "fields": {
+    "name": "Can change association",
+    "content_type": 12,
+    "codename": "change_association"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 47,
+  "fields": {
+    "name": "Can delete association",
+    "content_type": 12,
+    "codename": "delete_association"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 48,
+  "fields": {
+    "name": "Can view association",
+    "content_type": 12,
+    "codename": "view_association"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 49,
+  "fields": {
+    "name": "Can add code",
+    "content_type": 13,
+    "codename": "add_code"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 50,
+  "fields": {
+    "name": "Can change code",
+    "content_type": 13,
+    "codename": "change_code"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 51,
+  "fields": {
+    "name": "Can delete code",
+    "content_type": 13,
+    "codename": "delete_code"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 52,
+  "fields": {
+    "name": "Can view code",
+    "content_type": 13,
+    "codename": "view_code"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 53,
+  "fields": {
+    "name": "Can add nonce",
+    "content_type": 14,
+    "codename": "add_nonce"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 54,
+  "fields": {
+    "name": "Can change nonce",
+    "content_type": 14,
+    "codename": "change_nonce"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 55,
+  "fields": {
+    "name": "Can delete nonce",
+    "content_type": 14,
+    "codename": "delete_nonce"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 56,
+  "fields": {
+    "name": "Can view nonce",
+    "content_type": 14,
+    "codename": "view_nonce"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 57,
+  "fields": {
+    "name": "Can add user social auth",
+    "content_type": 15,
+    "codename": "add_usersocialauth"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 58,
+  "fields": {
+    "name": "Can change user social auth",
+    "content_type": 15,
+    "codename": "change_usersocialauth"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 59,
+  "fields": {
+    "name": "Can delete user social auth",
+    "content_type": 15,
+    "codename": "delete_usersocialauth"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 60,
+  "fields": {
+    "name": "Can view user social auth",
+    "content_type": 15,
+    "codename": "view_usersocialauth"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 61,
+  "fields": {
+    "name": "Can add partial",
+    "content_type": 16,
+    "codename": "add_partial"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 62,
+  "fields": {
+    "name": "Can change partial",
+    "content_type": 16,
+    "codename": "change_partial"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 63,
+  "fields": {
+    "name": "Can delete partial",
+    "content_type": 16,
+    "codename": "delete_partial"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 64,
+  "fields": {
+    "name": "Can view partial",
+    "content_type": 16,
+    "codename": "view_partial"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 65,
+  "fields": {
+    "name": "Social Auth",
+    "content_type": 11,
+    "codename": "social_auth"
+  }
+},
+{
+  "model": "auth.group",
+  "pk": 1,
+  "fields": {
+    "name": "moderator",
+    "permissions": [
+      25,
+      26,
+      27,
+      28
+    ]
+  }
+},
+{
+  "model": "auth.group",
+  "pk": 2,
+  "fields": {
+    "name": "social",
+    "permissions": [
+      65
+    ]
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 1,
+  "fields": {
+    "app_label": "admin",
+    "model": "logentry"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 2,
+  "fields": {
+    "app_label": "auth",
+    "model": "permission"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 3,
+  "fields": {
+    "app_label": "auth",
+    "model": "group"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 4,
+  "fields": {
+    "app_label": "contenttypes",
+    "model": "contenttype"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 5,
+  "fields": {
+    "app_label": "sessions",
+    "model": "session"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 6,
+  "fields": {
+    "app_label": "men",
+    "model": "category"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 7,
+  "fields": {
+    "app_label": "men",
+    "model": "men"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 8,
+  "fields": {
+    "app_label": "men",
+    "model": "tagpost"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 9,
+  "fields": {
+    "app_label": "men",
+    "model": "uploadfiles"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 10,
+  "fields": {
+    "app_label": "men",
+    "model": "wife"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 11,
+  "fields": {
+    "app_label": "users",
+    "model": "user"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 12,
+  "fields": {
+    "app_label": "social_django",
+    "model": "association"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 13,
+  "fields": {
+    "app_label": "social_django",
+    "model": "code"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 14,
+  "fields": {
+    "app_label": "social_django",
+    "model": "nonce"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 15,
+  "fields": {
+    "app_label": "social_django",
+    "model": "usersocialauth"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 16,
+  "fields": {
+    "app_label": "social_django",
+    "model": "partial"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "178043surpiacqratrffy1zbr59bgup2",
+  "fields": {
+    "session_data": ".eJxVjMsOwiAQRf-FtSG8Cy7d-w1kmAGpGkhKuzL-uzbpQrf3nHNfLMK21riNvMSZ2JlJdvrdEuAjtx3QHdqtc-xtXebEd4UfdPBrp_y8HO7fQYVRv7UzFsgGaZydKGvwBZywRqI2iQIGEYy2pQQvhQKDSlNB61GqlKak0bH3B863N6I:1rGeMK:Xq15y5IPZmk82TYkALhm9KpDm2A1FnOz7rHCMWcUCyk",
+    "expire_date": "2024-01-05T12:10:32.785Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "2uira5x1lsxbqwwhmn2iwihmlq7f65by",
+  "fields": {
+    "session_data": ".eJxVjj0PwiAYhP8Ls2leWmjBzTi4aByMH3Eh8AItsZFEqA7G_279GHS65C7P3d1JG3I3GJWyzo5MyRJ1rFfOy3Rr5tUm7Hftab_euMN2doxXcyMTovSQOzUkd1HBjgiFf9NoPLnzK0kRg-4Vxosrvm4qPoPF4i3r2YiV_3ynUzfChvMarJdSlMJSaywwcI1FSSuOFBpkgJXQlnkjPDIPJQOgjQPJeWVEPZZ-99_VvU5Z9bEN55-Dny_k8QQ30FgV:1rO1y4:cREJRhakJ3d7JSFjaDTxAbBizaoZ2-GFzITl9fhMYRc",
+    "expire_date": "2024-01-25T20:48:00.058Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "412ofdzv1m9j3vojfvg3mumkij0042g3",
+  "fields": {
+    "session_data": ".eJxdjrEKwjAYhN8lsxQT05i6dVJQUBe1LuHPb2KCtS0mHUR8d9vqoE4Hd3x39yBnH12rVYgQDZmRa9XEY1gs9vdDlhfYFBvvcImFWO22FJqcjIiCNjrVBnNT_tQh7NfTgBdT9UGo0UOpsL6Z5OOG5L2XzAdZ5x32xzsIroMl5TadiIxmHHAqtMg0phLMeEwZcCpT5LxLNUpuqeWCaYkcDbMWjGWsL_3sD9UlhKjK-uyrr4PvL-T5AvgyWB0:1rNzWi:_Oa1FM55Kw8McShYS7MZuDUDMr1jsszDj3KZFypcWE8",
+    "expire_date": "2024-01-25T18:11:36.791Z"
+  }
+},
+{
+  "model": "men.men",
+  "pk": 1,
+  "fields": {
+    "title": "Tom Cruise",
+    "slug": "tom-cruise",
+    "photo": "photos/2023/12/22/Tom_Cruise_by_Gage_Skidmore_2.jpg",
+    "content": "Thomas Cruise Mapother IV (born July 3, 1962), known professionally as Tom Cruise, is an American actor. Regarded as a Hollywood icon,[1][2][3] he has received various accolades, including an Honorary Palme d'Or, two Saturn Awards, and three Golden Globe Awards, in addition to nominations for four Academy Awards and a BAFTA Award. His films have grossed over $4 billion in North America and over $11.5 billion worldwide,[4] making him one of the highest-grossing box-office stars of all time.[5] He is consistently one of the world's highest-paid actors.[6]\r\n\r\nCruise began acting in the early 1980s and made his breakthrough with leading roles in films such as Risky Business (1983), The Outsiders (1983), and Top Gun (1986), followed by dramatic roles in The Color of Money (1986) and Rain Man (1988). Cruise went on to receive critical acclaim as well as three Academy Award for Best Actor nominations for his roles in Born on the Fourth of July (1989), Jerry Maguire (1996), and Magnolia (1999). As a leading Hollywood star in the 1990s, he starred in commercially successful films, including the courtroom drama A Few Good Men (1992), the legal thriller The Firm (1993), the horror film Interview with the Vampire (1994), and the psychological thriller Eyes Wide Shut (1999).\r\n\r\nSince then, Cruise established himself as an action star acting in science fiction and action films, often performing his own risky stunts. He has played Ethan Hunt in the Mission: Impossible film series since 1996. His other notable films include Vanilla Sky (2001), Minority Report (2002), The Last Samurai (2003), Collateral (2004), War of the Worlds (2005), Knight and Day (2010), Jack Reacher (2012), Oblivion (2013), Edge of Tomorrow (2014), Jack Reacher: Never Go Back (2016), The Mummy (2017), and Top Gun: Maverick (2022), with Maverick being his highest-grossing film.\r\n\r\nCruise was named People's Sexiest Man Alive in 1990,[7] and received the top honor of \"Most Beautiful People\" in 1997.[8] He has been married to actresses Mimi Rogers, Nicole Kidman, and Katie Holmes. He adopted two children during his marriage to Kidman, and has a biological daughter with Holmes. He has been an outspoken advocate for the Church of Scientology, which he credits with helping him overcome dyslexia.",
+    "time_create": "2023-12-22T12:13:41.568Z",
+    "time_update": "2023-12-22T12:48:33.900Z",
+    "is_published": true,
+    "cat": 2,
+    "wife": null,
+    "author": 1,
+    "tags": [
+      2,
+      3
+    ]
+  }
+},
+{
+  "model": "men.men",
+  "pk": 2,
+  "fields": {
+    "title": "Mark Wahlberg",
+    "slug": "mark-wahlberg",
+    "photo": "photos/2023/12/22/Mark_Wahlberg_2021.jpg",
+    "content": "Mark Robert Michael Wahlberg (born June 5, 1971),[1] formerly known by his stage name Marky Mark,[2] is an American actor. His work as a leading man spans the comedy, drama, and action genres. He has received multiple accolades, including a BAFTA Award, and nominations for two Academy Awards, three Golden Globe Awards, nine Primetime Emmy Awards, and three Screen Actors Guild Awards.\r\n\r\nAs a youth, Wahlberg was involved in a number of violent and racially motivated attacks. He gained notability as a member of the hip hop group Marky Mark and the Funky Bunch in the 1990s, with whom he released the albums Music for the People (1991) and You Gotta Believe (1992). Wahlberg made his screen debut in Renaissance Man (1994) and had his first starring role in Fear (1996). He received critical praise for his performance as porn actor Dirk Diggler in Boogie Nights (1997).\r\n\r\nIn the early 2000s, Wahlberg ventured into big-budget action movies, such as The Perfect Storm (2000), Planet of the Apes (2001), and The Italian Job (2003). He was nominated for the Academy Award for Best Supporting Actor for playing a police officer in the crime drama The Departed (2006). Wahlberg was nominated for the Golden Globe Award for Best Actor for portraying Micky Ward in the sports drama biopic The Fighter (2010). During the 2010s, he landed successful comedy roles with The Other Guys (2010), Ted (2012), Ted 2 (2015), Daddy's Home (2015), and Daddy's Home 2 (2017). Wahlberg also became the protagonist in two films in the Transformers live-action film franchise, Transformers: Age of Extinction and Transformers: The Last Knight. He was the world's highest-paid actor in 2017.\r\n\r\nWahlberg served as executive producer of five HBO series: the comedy-drama Entourage (2004–2011), the period crime drama Boardwalk Empire (2010–2014), the comedy-dramas How to Make It in America (2010–2011) and Ballers (2015–2019), and the documentary McMillions (2020). He is co-owner of the Wahlburgers chain and co-starred in the reality TV series about it. Wahlberg received a star on the Hollywood Walk of Fame in 2010.",
+    "time_create": "2023-12-22T12:15:31.376Z",
+    "time_update": "2023-12-22T12:48:27.594Z",
+    "is_published": true,
+    "cat": 2,
+    "wife": null,
+    "author": 1,
+    "tags": [
+      2
+    ]
+  }
+},
+{
+  "model": "men.men",
+  "pk": 3,
+  "fields": {
+    "title": "Chris Evans",
+    "slug": "chris-evans",
+    "photo": "photos/2023/12/22/ChrisEvans2023.jpg",
+    "content": "Christopher Robert Evans (born June 13, 1981) is an American actor. He began his career with roles in television series such as Opposite Sex in 2000. Following appearances in several teen films, including 2001's Not Another Teen Movie, he gained attention for his portrayal of Marvel Comics character the Human Torch in Fantastic Four (2005) and Fantastic Four: Rise of the Silver Surfer (2007). Evans made further appearances in film adaptations of comic books and graphic novels: TMNT (2007), Scott Pilgrim vs. the World (2010), and Snowpiercer (2013).\r\n\r\nEvans gained wider recognition for portraying Steve Rogers / Captain America in various Marvel Cinematic Universe (MCU) films, from Captain America: The First Avenger (2011) to Avengers: Endgame (2019). His work in the franchise established him as one of the world's highest-paid actors.[1] Aside from comic book roles, Evans has starred in the drama Gifted (2017), the mystery film Knives Out (2019), the television miniseries Defending Jacob (2020), and the action film The Gray Man (2022). He also voiced Buzz Lightyear in Pixar's Toy Story spin-off film Lightyear (2022), and Lucas Lee in the anime series Scott Pilgrim Takes Off (2023), reprising his live-action role.\r\n\r\nEvans made his directorial debut in 2014 with the romantic drama Before We Go, which he also produced and starred in. Evans made his Broadway debut in the 2018 revival of Kenneth Lonergan's play Lobby Hero, which earned him a Drama League Award nomination.",
+    "time_create": "2023-12-22T12:16:13.661Z",
+    "time_update": "2023-12-22T12:48:24.007Z",
+    "is_published": true,
+    "cat": 2,
+    "wife": null,
+    "author": 1,
+    "tags": [
+      2
+    ]
+  }
+},
+{
+  "model": "men.men",
+  "pk": 4,
+  "fields": {
+    "title": "Jake Gyllenhaal",
+    "slug": "jake-gyllenhaal",
+    "photo": "photos/2023/12/22/jake_gyllenhaal.jpg",
+    "content": "Jacob Benjamin Gyllenhaal (/ˈdʒɪlənhɔːl/;[1][2] Swedish: [ˈjʏ̂lːɛnˌhɑːl];[3] born December 19, 1980) is an American actor. Born into the Gyllenhaal family, he is the son of director Stephen Gyllenhaal and screenwriter Naomi Foner, and his older sister is actress Maggie Gyllenhaal.[4] He began acting as a child, making his acting debut in City Slickers (1991), followed by roles in his father's films A Dangerous Woman (1993) and Homegrown (1998). His breakthrough roles were as Homer Hickam in October Sky (1999) and as a psychologically troubled teenager in Donnie Darko (2001).\r\n\r\nGyllenhaal starred in the 2004 science fiction disaster film The Day After Tomorrow. He played Jack Twist in Ang Lee's 2005 romantic drama Brokeback Mountain, for which Gyllenhaal won a BAFTA Award and was nominated for an Academy Award. His career progressed with starring roles in the thriller Zodiac (2007), the romantic comedy Love & Other Drugs (2010), and the science fiction film Source Code (2011). Further acclaim came with his roles in Denis Villeneuve's thrillers Prisoners (2013) and Enemy (2013), and he received nominations for the BAFTA Award for Best Actor in a Leading Role for his performances as a manipulative journalist in Nightcrawler (2014) and a troubled writer in Nocturnal Animals (2016). His highest-grossing release came with the Marvel Cinematic Universe superhero film Spider-Man: Far From Home (2019), in which he portrayed Quentin Beck / Mysterio. He has since starred in Wildlife (2018), Velvet Buzzsaw (2019), The Guilty (2021), and Ambulance (2022).\r\n\r\nGyllenhaal has performed on stage, starring in a West End production of the play This Is Our Youth and Broadway productions of the musical Sunday in the Park with George as well as the plays Constellations and Sea Wall/A Life, the lattermost of which earned him a nomination for the Tony Award for Best Actor in a Play. Aside from acting, he is vocal about political and social issues.",
+    "time_create": "2023-12-22T12:17:26.826Z",
+    "time_update": "2023-12-22T12:48:21.306Z",
+    "is_published": true,
+    "cat": 2,
+    "wife": null,
+    "author": 1,
+    "tags": [
+      2
+    ]
+  }
+},
+{
+  "model": "men.men",
+  "pk": 5,
+  "fields": {
+    "title": "Freddie Mercury",
+    "slug": "freddie-mercury",
+    "photo": "photos/2023/12/22/Freddie_Mercury_performing_in_New_Haven_CT_November_1977.jpg",
+    "content": "Frederick Mercury[2] (born Farrokh Bulsara; 5 September 1946 – 24 November 1991)[3] was a British singer and songwriter who achieved worldwide fame as the lead vocalist and pianist of the rock band Queen. Regarded as one of the greatest singers in the history of rock music, he was known for his flamboyant stage persona and four-octave vocal range. Mercury defied the conventions of a rock frontman with his theatrical style, influencing the artistic direction of Queen.\r\n\r\nBorn in 1946 in Zanzibar to Parsi-Indian parents, Mercury attended English boarding schools in India from the age of eight and returned to Zanzibar after secondary school. In 1964, his family fled the Zanzibar Revolution, moving to Middlesex, England. Having studied and written music for years, he formed Queen in 1970 with guitarist Brian May and drummer Roger Taylor. Mercury wrote numerous hits for Queen, including \"Killer Queen\", \"Bohemian Rhapsody\", \"Somebody to Love\", \"We Are the Champions\", \"Don't Stop Me Now\" and \"Crazy Little Thing Called Love\". His charismatic stage performances often saw him interact with the audience, as displayed at the 1985 Live Aid concert. He also led a solo career and was a producer and guest musician for other artists.\r\n\r\nMercury was diagnosed with AIDS in 1987. He continued to record with Queen, and posthumously featured on their final album, Made in Heaven (1995). In 1991, the day after announcing his diagnosis, he died from complications of the disease at the age of 45. In 1992, a concert in tribute to him was held at Wembley Stadium, in benefit of AIDS awareness. His career with Queen was dramatised in the 2018 biopic Bohemian Rhapsody.\r\n\r\nAs a member of Queen, Mercury was posthumously inducted into the Rock and Roll Hall of Fame in 2001, the Songwriters Hall of Fame in 2003, and the UK Music Hall of Fame in 2004. In 1990, he and the other Queen members received the Brit Award for Outstanding Contribution to British Music. One year after his death, Mercury received the same award individually. In 2005, Queen were awarded an Ivor Novello Award for Outstanding Song Collection from the British Academy of Songwriters, Composers, and Authors. In 2002, Mercury was voted number 58 in the BBC's poll of the 100 Greatest Britons.",
+    "time_create": "2023-12-22T12:20:29.979Z",
+    "time_update": "2023-12-22T12:48:17.940Z",
+    "is_published": true,
+    "cat": 1,
+    "wife": null,
+    "author": 1,
+    "tags": [
+      1
+    ]
+  }
+},
+{
+  "model": "men.men",
+  "pk": 6,
+  "fields": {
+    "title": "Michael Jackson",
+    "slug": "michael-jackson",
+    "photo": "photos/2023/12/22/Michael_Jackson_in_1988.jpg",
+    "content": "Michael Joseph Jackson (August 29, 1958 – June 25, 2009) was an American singer, songwriter, dancer, and philanthropist. Known as the \"King of Pop\", he is regarded as one of the most significant cultural figures of the 20th century. During his four-decade career, his contributions to music, dance, and fashion, along with his publicized personal life, made him a global figure in popular culture. Jackson influenced artists across many music genres. Through stage and video performances, he popularized complicated street dance moves such as the moonwalk, which he named, as well as the robot.\r\n\r\nThe eighth child of the Jackson family, Jackson made his public debut in 1964 with his older brothers Jackie, Tito, Jermaine, and Marlon as a member of the Jackson 5 (later known as the Jacksons). Jackson began his solo career in 1971 while at Motown Records. He became a solo star with his 1979 album Off the Wall. His music videos, including those for \"Beat It\", \"Billie Jean\", and \"Thriller\" from his 1982 album Thriller, are credited with breaking racial barriers and transforming the medium into an art form and promotional tool. He helped propel the success of MTV and continued to innovate with the videos for his subsequent albums: Bad (1987), Dangerous (1991), HIStory: Past, Present and Future, Book I (1995), and Invincible (2001). Thriller became the best-selling album of all time, while Bad was the first album to produce five US Billboard Hot 100 number-one singles.[nb 1]\r\n\r\nFrom the late 1980s, Jackson became a figure of controversy and speculation due to his changing appearance, relationships, behavior, and lifestyle. In 1993, he was accused of sexually abusing the child of a family friend. The lawsuit was settled out of civil court; Jackson was not indicted due to lack of evidence. In 2005, he was tried and acquitted of further child sexual abuse allegations and several other charges. The FBI found no evidence of criminal conduct by Jackson in either case. In 2009, while he was preparing for a series of comeback concerts, This Is It, Jackson died from an overdose of propofol administered by his personal physician, Conrad Murray, who was convicted in 2011 of involuntary manslaughter for his involvement in Jackson's death. His death triggered reactions around the world, creating unprecedented surges of internet traffic and a spike in sales of his music. Jackson's televised memorial service, held at the Staples Center in Los Angeles, was estimated to have been viewed by more than 2.5 billion people.\r\n\r\nJackson is one of the best-selling music artists of all time, with estimated sales of over 400 million records worldwide.[nb 2] He had 13 Billboard Hot 100 number-one singles (fourth highest of any artist in the Hot 100 era) and was the first artist to have a top-ten single on the Billboard Hot 100 in five different decades. His honors include 15 Grammy Awards, six Brit Awards, a Golden Globe Award, and 39 Guinness World Records, including the \"Most Successful Entertainer of All Time\". Jackson's inductions include the Rock and Roll Hall of Fame (twice), the Vocal Group Hall of Fame, the Songwriters Hall of Fame, the Dance Hall of Fame (making him the only recording artist to be inducted) and the Rhythm and Blues Music Hall of Fame.",
+    "time_create": "2023-12-22T12:21:21.984Z",
+    "time_update": "2023-12-22T12:48:15.015Z",
+    "is_published": true,
+    "cat": 1,
+    "wife": null,
+    "author": 1,
+    "tags": [
+      2
+    ]
+  }
+},
+{
+  "model": "men.men",
+  "pk": 7,
+  "fields": {
+    "title": "Elvis Presley",
+    "slug": "elvis-presley",
+    "photo": "photos/2023/12/22/photo-of-elvis-presley-posed-studio-portrait-of-elvis-news-photo-84857_E4X0Ge7.jpg",
+    "content": "Elvis Aaron Presley[a] (January 8, 1935 – August 16, 1977), also known mononymously as Elvis, was an American singer and actor. Known as the \"King of Rock and Roll\", he is regarded as one of the most significant cultural figures of the 20th century. Presley's energized interpretations of songs and sexually provocative performance style, combined with a singularly potent mix of influences across color lines during a transformative era in race relations, brought both great success and initial controversy.\r\n\r\nPresley was born in Tupelo, Mississippi; his family relocated to Memphis, Tennessee, when he was 13. His music career began there in 1954, at Sun Records with producer Sam Phillips, who wanted to bring the sound of African-American music to a wider audience. Presley, on guitar and accompanied by lead guitarist Scotty Moore and bassist Bill Black, was a pioneer of rockabilly, an uptempo, backbeat-driven fusion of country music and rhythm and blues. In 1955, drummer D. J. Fontana joined to complete the lineup of Presley's classic quartet and RCA Victor acquired his contract in a deal arranged by Colonel Tom Parker, who would manage him for more than two decades. Presley's first RCA single, \"Heartbreak Hotel\", was released in January 1956 and became a number-one hit in the United States. Within a year, RCA would sell ten million Presley singles. With a series of successful television appearances and chart-topping records, Presley became the leading figure of the newly popular rock and roll; though his performative style and promotion of the then-marginalized sound of African Americans[6] led to him being widely considered a threat to the moral well-being of white American youth.[7]\r\n\r\nIn November 1956, Presley made his film debut in Love Me Tender. Drafted into military service in 1958, he relaunched his recording career two years later with some of his most commercially successful work. Presley held few concerts, however, and guided by Parker, proceeded to devote much of the 1960s to making Hollywood films and soundtrack albums, most of them critically derided. Some of his most famous films included Jailhouse Rock (1957), Blue Hawaii (1961), and Viva Las Vegas (1964). In 1968, following a seven-year break from live performances, he returned to the stage in the acclaimed television comeback special Elvis, which led to an extended Las Vegas concert residency and a string of highly profitable tours. In 1973, Presley gave the first concert by a solo artist to be broadcast around the world, Aloha from Hawaii. However, years of prescription drug abuse and unhealthy eating habits severely compromised his health, and Presley died suddenly in 1977 at his Graceland estate at the age of 42.\r\n\r\nHaving sold roughly 500 million records worldwide, Presley is one of the best-selling music artists of all time. He was commercially successful in many genres, including pop, country, rhythm & blues, adult contemporary, and gospel. He won three Grammy Awards, received the Grammy Lifetime Achievement Award at age 36, and has been inducted into multiple music halls of fame. He also holds several records, including the most RIAA-certified gold and platinum albums, the most albums charted on the Billboard 200, the most number-one albums by a solo artist on the UK Albums Chart, and the most number-one singles by any act on the UK Singles Chart. In 2018, Presley was posthumously awarded the Presidential Medal of Freedom.",
+    "time_create": "2023-12-22T12:22:41.388Z",
+    "time_update": "2023-12-22T12:48:11.593Z",
+    "is_published": true,
+    "cat": 1,
+    "wife": null,
+    "author": 1,
+    "tags": [
+      2
+    ]
+  }
+},
+{
+  "model": "men.men",
+  "pk": 8,
+  "fields": {
+    "title": "Frank Sinatra",
+    "slug": "frank-sinatra",
+    "photo": "photos/2023/12/22/gettyimages-119684687.jpg",
+    "content": "Francis Albert Sinatra (/sɪˈnɑːtrə/; December 12, 1915 – May 14, 1998) was an American singer and actor. Nicknamed the \"Chairman of the Board\" and later called \"Ol' Blue Eyes\", he is regarded as one of the most popular entertainers of the mid-20th century. Sinatra is among the world's best-selling music artists with an estimated 150 million record sales.[2][3]\r\n\r\nBorn to Italian immigrants in Hoboken, New Jersey, Sinatra began his musical career in the swing era and was greatly influenced by the easy-listening vocal style of Bing Crosby.[4] He found success as a solo artist after signing with Columbia Records in 1943, becoming the idol of the \"bobby soxers\". In 1946, Sinatra released his debut album, The Voice of Frank Sinatra. He then signed with Capitol Records and released several critically lauded albums. In 1960, Sinatra left Capitol Records to start his own record label, Reprise Records, releasing a string of successful albums. In 1965, he recorded the retrospective album September of My Years and starred in the Emmy-winning television special Frank Sinatra: A Man and His Music. After releasing Sinatra at the Sands in early 1966, Sinatra recorded one of his most famous collaborations with Tom Jobim, the album Francis Albert Sinatra & Antonio Carlos Jobim. It was followed by 1968's Francis A. & Edward K. with Duke Ellington. Sinatra retired in 1971 following the release of \"My Way\", but came out of retirement two years later. He recorded several albums and released \"New York, New York\" in 1980.\r\n\r\nSinatra forged a highly successful career as a film actor. After winning the Academy Award for Best Supporting Actor for From Here to Eternity (1953), he starred in The Man with the Golden Arm (1955) and The Manchurian Candidate (1962). Sinatra also appeared in musicals such as On the Town (1949), Guys and Dolls (1955), High Society (1956), and Pal Joey (1957), which won him a Golden Globe Award. Toward the end of his career, he frequently played detectives, including the title character in Tony Rome (1967). Sinatra received the Golden Globe Cecil B. DeMille Award in 1971. On television, The Frank Sinatra Show began on CBS in 1950, and he continued to make appearances on television throughout the 1950s and 1960s.\r\n\r\nIn 1983, Sinatra was honored at the Kennedy Center Honors. He was awarded the Presidential Medal of Freedom in 1985 and the Congressional Gold Medal in 1997. Sinatra received eleven Grammy Awards including the Grammy Trustees Award, Grammy Legend Award, and the Grammy Lifetime Achievement Award. He was included in Time magazine's compilation of the 20th century's 100 most influential people. American music critic Robert Christgau called him \"the greatest singer of the 20th century\"[5] and he continues to be regarded as an iconic figure.[6]",
+    "time_create": "2023-12-22T12:23:59.661Z",
+    "time_update": "2023-12-22T12:48:07.674Z",
+    "is_published": true,
+    "cat": 1,
+    "wife": null,
+    "author": 1,
+    "tags": [
+      2
+    ]
+  }
+},
+{
+  "model": "men.men",
+  "pk": 9,
+  "fields": {
+    "title": "Steven Tyler",
+    "slug": "steve-tyler",
+    "photo": "photos/2023/12/22/440px-Steven_Tyler_by_Gage_Skidmore_3.jpg",
+    "content": "Steven Victor Tallarico (born March 26, 1948), known professionally as Steven Tyler, is an American singer, best known as the lead singer of the Boston-based rock band Aerosmith, in which he also plays the keyboards, harmonica and percussion. He has been called the \"Demon of Screamin'\" due to his high screams and his powerful wide vocal range.[3] He is also known for his on-stage acrobatics. During his performances, Tyler usually dresses in colorful, sometimes androgynous outfits and makeup with his trademark scarves hanging from his microphone stand.\r\n\r\nIn the 1970s, Tyler rose to prominence as the lead singer of Aerosmith, which released such hard rock albums as Toys in the Attic and Rocks, along with a string of hit singles, including \"Dream On\", \"Sweet Emotion\" and \"Walk This Way\". By the late 1970s and early 1980s, Tyler had a heavy drug and alcohol addiction and the band's popularity waned. In 1986, Tyler completed drug rehabilitation and Aerosmith rose to prominence again when Tyler and Joe Perry joined Run-DMC for a re-make of \"Walk This Way\", which became a Top 5 hit. Aerosmith subsequently launched a comeback with the multi-platinum albums Permanent Vacation, Pump, Get a Grip and Nine Lives, which produced a combined thirteen Top 40 singles and won the band numerous awards. During this time, the band embarked on their longest concert tours, promoted their singles with conceptual music videos, and made appearances in television, film and video games.\r\n\r\nSince the late 1980s, Tyler has embarked on several solo endeavors, including guest appearances with musicians including Alice Cooper, Mötley Crüe, Santana, Pink and Keith Anderson, film and TV work, authoring a book, and solo music, including the Top 40 single \"(It) Feels So Good\" in 2011. Tension with his Aerosmith bandmates arose in 2009 and 2010 after he fell off the stage at a concert, and had a relapse with prescription drugs, receiving treatment in 2009.[4] He also signed on to American Idol without telling the other members of the band. Nonetheless, Tyler has continued to record music and perform with Aerosmith, after more than 50 years as a member of the group. In 2016, he released his debut solo album, We're All Somebody from Somewhere, a country rock album that included the single \"Love Is Your Name\". Tyler supported the album with the \"Out on a Limb\" tour. Tyler continues to perform both solo, with backing from the Loving Mary Band, and with Aerosmith.\r\n\r\nTyler is included in Rolling Stone's list of 100 Greatest Singers.[5] He was ranked third on Hit Parader's Top 100 Metal Vocalists of All Time. In 2001, he was inducted into the Rock and Roll Hall of Fame with Aerosmith and in 2013, Tyler and his songwriting partner Joe Perry received the ASCAP Founders Award and were inducted into the Songwriters Hall of Fame.[6][7]",
+    "time_create": "2023-12-22T12:42:39.708Z",
+    "time_update": "2023-12-22T12:48:04.827Z",
+    "is_published": true,
+    "cat": 1,
+    "wife": null,
+    "author": 1,
+    "tags": [
+      2
+    ]
+  }
+},
+{
+  "model": "men.men",
+  "pk": 10,
+  "fields": {
+    "title": "Prince",
+    "slug": "prince",
+    "photo": "photos/2023/12/22/prince-prince-performing-on-stage---purple-rain-tour-photo-by-richard-_bEyPtBA.jpg",
+    "content": "Prince Rogers Nelson (June 7, 1958 – April 21, 2016), known mononymously as Prince, was an American singer, songwriter, musician, record producer, and actor. The recipient of numerous awards and nominations, he is widely regarded as one of the greatest musicians of his generation.[6] He was known for his flamboyant, androgynous persona;[7][8] his wide vocal range, which included a far-reaching falsetto and high-pitched screams; and his skill as a multi-instrumentalist, often preferring to play all or most of the instruments on his recordings.[9] His music incorporated a wide variety of styles, including funk, R&B, rock, new wave, soul, synth-pop, pop, jazz, blues, and hip hop. Prince produced his albums himself, pioneering the Minneapolis sound.\r\n\r\nBorn and raised in Minneapolis, Prince signed a record deal with Warner Bros. Records at the age of 19, soon releasing the albums For You (1978) and Prince (1979). He went on to achieve critical success with the influential albums Dirty Mind (1980), Controversy (1981), and 1999 (1982). His sixth album, Purple Rain (1984), was recorded with his new backing band the Revolution, and was also the soundtrack to the film of the same name in which he starred. Purple Rain garnered continued success for Prince and was a major commercial achievement, spending six consecutive months atop the Billboard 200 chart.[10] The soundtrack also won Prince the Academy Award for Best Original Song Score. After disbanding the Revolution, Prince released the album Sign o' the Times (1987), widely hailed by critics as the greatest work of his career.\r\n\r\nIn the midst of a contractual dispute with Warner Bros. in 1993, he changed his stage name to the unpronounceable symbol Logo. Hollow circle above downward arrow crossed with a curlicued horn-shaped symbol and then a short bar (known to fans as the \"Love Symbol\") and was often referred to as The Artist Formerly Known as Prince (or TAFKAP) or simply The Artist.[11][12] After moving to Arista Records in 1998, Prince reverted to his original name in 2000. Over the next decade, six of his albums entered the U.S. top 10 charts.[13][14] In April 2016, at the age of 57, Prince died after accidentally overdosing on fentanyl at his Paisley Park home and recording studio in Chanhassen, Minnesota. He was a prolific musician who released 39 albums during his life, with a vast array of unreleased material left in a custom-built bank vault underneath his home after his death, including fully completed albums and over 50 finished music videos.[15] Released posthumously, his demo albums Piano and a Microphone 1983 (2018) and Originals (2019) both received critical acclaim.\r\n\r\nPrince sold over 100 million records worldwide, ranking him among the best-selling music artists of all time.[16] His awards included the Grammy President's Merit Award, the American Music Awards for Achievement and of Merit, the Billboard Icon Award, an Academy Award, and a Golden Globe Award. He was inducted into the Rock and Roll Hall of Fame in 2004, the UK Music Hall of Fame in 2006, and the Rhythm and Blues Music Hall of Fame in 2016, and was inducted twice into the Black Music & Entertainment Walk of Fame in 2022.[17][18] Estimates of the complete number of songs written by Prince range anywhere from 500 to well over 1,000,[19] some of which were made popular after being covered by other musicians, most notably \"Nothing Compares 2 U\" by Sinéad O'Connor and \"Manic Monday\" by the Bangles.",
+    "time_create": "2023-12-22T12:43:35.245Z",
+    "time_update": "2023-12-22T12:47:59.615Z",
+    "is_published": true,
+    "cat": 1,
+    "wife": null,
+    "author": 1,
+    "tags": [
+      2
+    ]
+  }
+},
+{
+  "model": "men.men",
+  "pk": 11,
+  "fields": {
+    "title": "David Bowie",
+    "slug": "david-bowie",
+    "photo": "photos/2023/12/22/David-Bowie_Chicago_2002-08-08_photoby_Adam-Bielawski-cropped.jpg",
+    "content": "David Robert Jones (8 January 1947 – 10 January 2016), known professionally as David Bowie (/ˈboʊi/ BOH-ee),[1] was an English singer, songwriter, musician, and actor. A leading figure in the music industry, he is regarded as one of the most influential musicians of the 20th century. Bowie was acclaimed by critics and musicians, particularly for his innovative work during the 1970s. His career was marked by reinvention and visual presentation, and his music and stagecraft had a significant impact on popular music.\r\n\r\nBowie developed an interest in music from an early age. He studied art, music and design before embarking on a professional career as a musician in 1963. He released a string of unsuccessful singles with local bands and a solo album before achieving his first top five entry on the UK Singles Chart with \"Space Oddity\", released in 1969. After a period of experimentation, he re-emerged in 1972 during the glam rock era with the flamboyant and androgynous alter ego Ziggy Stardust. The character was spearheaded by the success of \"Starman\" and album The Rise and Fall of Ziggy Stardust and the Spiders from Mars, which won him widespread popularity. In 1975, Bowie's style shifted towards a sound he characterised as \"plastic soul\", initially alienating many of his UK fans but garnering him his first major US crossover success with the number-one single \"Fame\" and the album Young Americans. In 1976, Bowie starred in the cult film The Man Who Fell to Earth and released Station to Station. In 1977, he again changed direction with the electronic-inflected album Low, the first of three collaborations with Brian Eno that came to be known as the Berlin Trilogy. \"Heroes\" (1977) and Lodger (1979) followed; each album reached the UK top five and received lasting critical praise.\r\n\r\nAfter uneven commercial success in the late 1970s, Bowie had three number-one hits: the 1980 single \"Ashes to Ashes\", its album Scary Monsters (and Super Creeps) and \"Under Pressure\" (a 1981 collaboration with Queen). He achieved his greatest commercial success in the 1980s with Let's Dance (1983). Between 1988 and 1992, he fronted the hard rock band Tin Machine before resuming his solo career in 1993. Throughout the 1990s and 2000s, Bowie continued to experiment with musical styles, including industrial and jungle. He also continued acting; his roles included Major Jack Celliers in Merry Christmas, Mr. Lawrence (1983), Jareth the Goblin King in Labyrinth (1986), Phillip Jeffries in Twin Peaks: Fire Walk with Me (1992), Andy Warhol in the biopic Basquiat (1996), and Nikola Tesla in The Prestige (2006), among other film and television appearances and cameos. He stopped touring after 2004 and his last live performance was at a charity event in 2006. He returned from a decade-long recording hiatus in 2013 with The Next Day and remained musically active until his death from liver cancer in 2016. He died two days after both his 69th birthday and the release of his final album, Blackstar.\r\n\r\nDuring his lifetime, his record sales, estimated at over 100 million records worldwide, made him one of the best-selling musicians of all time. Often dubbed the \"chameleon of rock\" due to his constant musical reinventions, he was inducted into the Rock and Roll Hall of Fame in 1996. Rolling Stone ranked him among the greatest artists in history. As of 2022, Bowie was the best-selling vinyl artist of the 21st century.",
+    "time_create": "2023-12-22T12:51:30.963Z",
+    "time_update": "2023-12-22T12:51:30.963Z",
+    "is_published": true,
+    "cat": 1,
+    "wife": null,
+    "author": 1,
+    "tags": [
+      2
+    ]
+  }
+},
+{
+  "model": "men.category",
+  "pk": 1,
+  "fields": {
+    "name": "Singers",
+    "slug": "singers"
+  }
+},
+{
+  "model": "men.category",
+  "pk": 2,
+  "fields": {
+    "name": "Actors",
+    "slug": "actors"
+  }
+},
+{
+  "model": "men.category",
+  "pk": 3,
+  "fields": {
+    "name": "Sportsmans",
+    "slug": "sportsmans"
+  }
+},
+{
+  "model": "men.tagpost",
+  "pk": 1,
+  "fields": {
+    "tag": "Gay",
+    "slug": "gay"
+  }
+},
+{
+  "model": "men.tagpost",
+  "pk": 2,
+  "fields": {
+    "tag": "Straight",
+    "slug": "straight"
+  }
+},
+{
+  "model": "men.tagpost",
+  "pk": 3,
+  "fields": {
+    "tag": "Oscar",
+    "slug": "oscar"
+  }
+},
+{
+  "model": "users.user",
+  "pk": 1,
+  "fields": {
+    "password": "pbkdf2_sha256$600000$qeWx7tTXkBjCxLKg8cmdbH$jgjGYBmnLOq05YH2sB9YvDv2pIf/H0ag45KjLmKOGU4=",
+    "last_login": "2024-01-11T20:47:44.222Z",
+    "is_superuser": true,
+    "username": "root",
+    "first_name": "Orxan",
+    "last_name": "Gurbanov",
+    "email": "root@sitemen.ru",
+    "is_staff": true,
+    "is_active": true,
+    "date_joined": "2023-12-22T12:09:27.655Z",
+    "photo": "",
+    "date_birth": "1996-01-01T00:00:00Z",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "users.user",
+  "pk": 6,
+  "fields": {
+    "password": "pbkdf2_sha256$600000$0mxWV7rGw0zYU6Wzut0qoh$fYsCZGlyG1280CJHLmjHUqnt1r/QmUOz0FXM9uG0d80=",
+    "last_login": "2024-01-11T19:40:39.067Z",
+    "is_superuser": false,
+    "username": "orxan",
+    "first_name": "orik",
+    "last_name": "qurik",
+    "email": "azaza@mail.ru",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2024-01-11T19:40:30.394Z",
+    "photo": "",
+    "date_birth": null,
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "users.user",
+  "pk": 7,
+  "fields": {
+    "password": "pbkdf2_sha256$600000$wkvYr4H9Aah3ycvPvnxcOD$g+FC8VpwrL4n3oXiaXG4GSqZjPwwWcRZgrE0J37N6CU=",
+    "last_login": "2024-01-11T20:25:11.513Z",
+    "is_superuser": false,
+    "username": "ffff",
+    "first_name": "ffff",
+    "last_name": "ffff",
+    "email": "fff@mail.ru",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2024-01-11T20:25:03.018Z",
+    "photo": "",
+    "date_birth": null,
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "users.user",
+  "pk": 10,
+  "fields": {
+    "password": "!Ui4GEmI7MdXW9rRI5ysHKQzn2mNx6vCrlRxfgYMI",
+    "last_login": "2024-01-11T20:48:00.019Z",
+    "is_superuser": false,
+    "username": "qurbanolum",
+    "first_name": "",
+    "last_name": "",
+    "email": "",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2024-01-11T20:48:00.002Z",
+    "photo": "",
+    "date_birth": null,
+    "groups": [
+      2
+    ],
+    "user_permissions": []
+  }
+},
+{
+  "model": "social_django.usersocialauth",
+  "pk": 4,
+  "fields": {
+    "user": 10,
+    "provider": "github",
+    "uid": "125203844",
+    "extra_data": {
+      "auth_time": 1705006080,
+      "id": 125203844,
+      "expires": null,
+      "login": "qurbanolum",
+      "access_token": "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",
+      "token_type": "bearer"
+    },
+    "created": "2024-01-11T20:48:00.010Z",
+    "modified": "2024-01-11T20:48:00.012Z"
+  }
+}
+]
